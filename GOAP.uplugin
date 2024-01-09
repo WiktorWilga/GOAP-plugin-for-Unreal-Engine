@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GOAP",
+	"Description": "Goal Oriented Action Planning Plugin",
+	"Category": "AI",
+	"CreatedBy": "Wiktor Wilga",
+	"CreatedByURL": "https://github.com/WiktorWilga/",
+	"DocsURL": "https://github.com/WiktorWilga/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GOAP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "GOAPNodes",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
+		}
+	]
+}
