@@ -5,7 +5,7 @@ This is a convenient-to-use and easy-to-expand plugin with which you can create 
 
 ![SetWorldStateValue](https://github.com/WiktorWilga/GOAP-plugin-for-Unreal-Engine/assets/39727198/64f34167-d889-4b49-b95d-95b20fc3c346)
 
-➡️ See the use of the plugin in the example project: https://github.com/WiktorWilga/GOAP-plugin-example-project/ ⬅️
+➡️ See the use of the plugin in the example project: https://github.com/WiktorWilga/GOAP-plugin-example-project/
 
 ## Table of Contents
 - [What is GOAP?](#what-is-goap)
